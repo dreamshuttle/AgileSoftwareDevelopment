@@ -1,4 +1,5 @@
-# week1
+# Week 1
+2017. 03. 26
 
 ## The Agile Manifesto
 
