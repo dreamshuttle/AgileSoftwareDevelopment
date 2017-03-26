@@ -1,7 +1,8 @@
 # Agile Software Development
 
-2017. 03. 26 ~
-This note is summary of ETHx: ASD.1x Agile Software Development in edx.org
+\\2017. 03. 26 ~  
+This note is summary of ETHx: ASD.1x Agile Software Development in edx.org  
+<https://courses.edx.org/courses/course-v1:ETHx+ASD.1x+2016_T1/info>
 
 ## Week 1
 ### Context
@@ -38,7 +39,7 @@ This note is summary of ETHx: ASD.1x Agile Software Development in edx.org
 
 ## Week 5
 ### Artifacts
-* from user stories to burndown charts
+* From user stories to burndown charts
 ### Assessment on Agile methods
 
 ## Week 6
