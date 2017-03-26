@@ -30,7 +30,7 @@ This note is my summary of ETHx: ASD.1x Agile Software Development in edx.org
 * Other Agile roles
 
 ## Week 4
-### Roles
+### Practices
 * Introduction to week 4
 * Meetings
 * Development
