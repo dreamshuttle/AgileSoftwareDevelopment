@@ -27,3 +27,45 @@ That is, while there is a value in the items on the right, we value items on the
 11. The best architectures, requirements, and designs emerge from self-organizing teams.
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
+## Agile Methods
+
+### XP (Extreme Programming)
+- Kent Beck
+- The revolt of the cubicles
+- Negotiated scope contract
+```
+Write contarcts for software development that fix time, costs, and quality but call for an ongoing negotiation of the precise scope of the system. Reduce risk by signing a sequence of short contracts instead of one long one.
+```
+```
+You can move in the direction of negotiated scope. Big, long contracts can be split in half or thirds, with the optional part to be exercised only if both parties agree. Contracts with high costs for change requests can be written with less scope fixed up front and lower costs for changes
+```
+
+### Lean
+- Mary Poppendiek
+
+### Crystal
+- Alistair Cockburn
+
+### Scrum
+- Schwaber & Sutherland
+
+## Agile Values
+### Agile values
+- A : New, reduced rolse for manager
+- B : No "Big Upfront" steps
+- C : Iterative development
+- D : Limited, negotiated scope
+- E : Focus on quality, achieved through testing
+
+### Agile principles
+- Managerial
+- Technical
+
+
+### Agile roles
+### Agile practices
+- Managerial
+- Technical
+
+
+### Agile artifacts
